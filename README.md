@@ -1,8 +1,15 @@
-# (Borrador) Propuesta de microcorredores ecológicos entre la RMK y el PNJCB para potenciar la conectividad ecológica, Los Alpes de Venecia, San Carlos, Alajuela.
+# Propuesta de microcorredores ecológicos entre la RMK y el PNJCB para potenciar la conectividad ecológica, Los Alpes de Venecia, San Carlos, Alajuela.
 
 ## 1. Introducción
 
 La intersección entre la conservación de la biodiversidad y el desarrollo humano sostenible se ha convertido en uno de los desafíos más urgentes del siglo XXI. En este contexto, la **Reserva Ecológica Manuel Koss (REMK)** y el **Parque Nacional del Agua Juan Castro Blanco (PNAJCB)** representan focos de importancia para la protección de ecosistemas vitales en Costa Rica. Estas áreas no solo albergan una rica biodiversidad, sino que también son fundamentales para el suministro de servicios ecosistémicos esenciales, como el abastecimiento de agua para las comunidades circundantes.
+
+<p align = "center">
+    <img src = "https://rap.ucr.ac.cr/sites/default/files/panoramica.jpg">
+</p>
+<p align = "center"> Fuente:
+    <a href="https://rap.ucr.ac.cr/">Red de Áreas Protegidas, Universidad de Costa Rica</a>
+</p>
 
 El aumento de la presión humana sobre los recursos naturales, manifestada a través de la expansión agrícola y urbana, ha fragmentado el paisaje, poniendo en riesgo la continuidad ecológica necesaria para la supervivencia de muchas especies. Esta fragmentación del hábitat reduce la capacidad de las especies para desplazarse, encontrar alimento, reproducirse y adaptarse al cambio climático (Lovel & Johnston, 2009). En respuesta a estas amenazas, mi investigación se centra en el diseño y la implementación de una red de microcorredores biológicos entre la REMK y el PNAJCB, con el objetivo de restablecer la conectividad ecológica en la región.
 
@@ -18,6 +25,10 @@ El PNAJCB es una área protegida muy importante para la conservación de la biod
 En este contexto, surge la necesidad urgente de establecer conexiones ecológicas que permitan la movilidad y dispersión de especies entre los parches de bosque remanentes y el PNAJCB. Sin embargo, para diseñar e implementar efectivamente estos corredores, es fundamental comprender las dinámicas del paisaje, las características de los remanentes de hábitat, y las necesidades y percepciones de las comunidades locales. La falta de conectividad ecológica no solo afecta a la fauna y flora, sino también a las comunidades humanas que dependen de los servicios ecosistémicos para su bienestar y sustento.
 
 Este TFG es importante porque el diseño de una red de microcorredores biológicos entre la Reserva Ecológica Manuel Koss (REMK) y el Parque Nacional del Agua Juan Castro Blanco (PNAJCB) ayudará a mitigar los efectos de la fragmentación del paisaje, lo que significa un paso importante para impulsar la conectividad ecológica de la región. Esta iniciativa contribuirá a mantener la biodiversidad, facilitar el movimiento de especies y sus modos de vida, además de promover la resiliencia de los ecosistemas frente al cambio climático (Taylor, P., Fahrig, L., & With, K., 2006). La REMK, nacida de una donación con el propósito de investigación, acción social y docencia, posee un gran potencial para convertirse en un centro de conectividad entre hábitats debido a su ubicación estratégica y su historia de reforestación y regeneración natural.
+
+<p align = "center">
+<iframe width="200" height="200" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?hl=en&amp;q=9P34%2B3F4+Venecia%2C+San+Carlos%2C+Alajuela+Province%2C+Costa+Rica&amp;z=14&amp;t=m&amp;output=embed"></iframe>
+</p>
 
 Evaluar la conectividad ecológica entre la Reserva y el PNAJCB permitirá generar datos empíricos así como diseñar una red de microcorredores viables en medio de un paisaje fragmentado y destinado a las actividades agropecuarias, con el fin de que las poblaciones de especies puedan moverse libremente entre los parches de bosque remanentes y el PNAJCB. La implementación de microcorredores en sistemas agrícolas mejorará la calidad del entorno, creando un mosaico diverso que favorecerá el desplazamiento y la supervivencia de poblaciones de animales (Lovel & Johnston, 2009). Esto es vital porque también permitirá que los insumos generados puedan ser de utilidad para los actores locales así como a otros investigadores. El involucramiento comunitario es fundamental para asegurar la viabilidad y sostenibilidad de un proyecto de conservación.
 
@@ -64,6 +75,14 @@ La conectividad ecológica o conectividad del paisaje (término que es más frec
 Taylor et al. (2006), definen la conectividad del paisaje como el grado de posibilidad de movimiento que tienen las especies entre parches de bosque, es decir, que se origina a partir de las interacciones entre las especies y su entorno.  Por lo tanto, es una característica dinámica que se debe evaluar a nivel del paisaje, tomando en cuenta organismos específicos o grupos de organismos, en lugar de considerar sólo un conjunto de parches dentro del paisaje. Esta definición resalta la importancia de la conectividad para la movilidad y el intercambio genético entre poblaciones, factores cruciales para la conservación de la biodiversidad.
 
 Como se mencionó anteriormente, la conectividad ecológica enfatiza en que la conectividad debe ser específica para cada especie y contexto, es decir, tomando en cuenta la conectividad funcional y no sólo la estructural (Correa Ayram et al., 2016; Tischendorf & Fahrig, 2000). Ding et al. (2023), señalan que diferentes organismos interactúan con la estructura del paisaje de manera única, lo que significa que no existe una solución universal para mantener la conectividad. En lugar de eso, al diseñar estrategias de conservación, se requiere un enfoque personalizado que considere las necesidades específicas de cada especie y las características del paisaje en el que habita.
+
+<p align = "center">
+    <img src = "https://ideasmedioambientales.com/wp-content/uploads/2019/09/Teoria-de-grafos.jpg">
+    <figcaption>Representación de un paisaje mediante la teoría de grafos.</figcaption>
+</p>
+<p align = "center"> Fuente:
+    <a href="https://ideasmedioambientales.com/conectividad-ecologica-paisaje/"> Ideas medioambientales</a>
+</p>
 
 ### 2.3. Fragmentación del paisaje
 
