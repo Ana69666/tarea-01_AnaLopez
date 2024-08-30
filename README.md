@@ -40,7 +40,7 @@ La Reserva Ecológica Manuel Koss (REMK), situada en los Alpes de Venecia, a apr
 
 La fragmentación del paisaje tiene múltiples consecuencias negativas para la biodiversidad y la resiliencia de los ecosistemas locales. La creación de parches aislados de bosque limita el flujo genético entre las poblaciones de flora y fauna, lo que puede llevar a una reducción de la diversidad genética y a un aumento en la vulnerabilidad de las especies a enfermedades y cambios ambientales (Andrade-Núñez & Aide, 2010). Además, la disminución de áreas de hábitat continuo impide el movimiento y la dispersión de muchas especies, lo que puede resultar en una disminución de las poblaciones locales e incluso en extinciones locales.
 
-![Venecia, San Carlos, Alajuela](C:/progra_SIG/tareas/imagenes/venecia.jpg)  
+![Venecia, San Carlos, Alajuela](venecia.jpg)  
 *Fuente: Google Earth*
 
 #### Pregunta de investigación
